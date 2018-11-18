@@ -1,17 +1,13 @@
-# Java 程序员眼中的 Linux
+# Linux学习知识整理
 
 ## 初衷(Original Intention)
 
-- 整理下自己所学
+- 整理自己所学Linux知识
 - 带动更多的人进入 Linux 世界，特别是做 Java 开发的人
-- Github 项目地址，欢迎 `Fork`、`Star`：<https://github.com/judasn/Linux-Tutorial>
-- 文章中用到的一些安装包归纳整理：<http://pan.baidu.com/s/1skAwrFn>
-- Gitbook 在线阅读地址：<https://youmeek.gitbooks.io/linux-tutorial/content/>
-- **学得越多越是明白一个人的力量是不够的，我只是起了一个引子，希望你能一起参与，真心希望！！！（鞠躬）**
 
-## 优秀同行推荐
+## 工具速查
 
-- [Linux工具快速教程](http://linuxtools-rst.readthedocs.io/zh_CN/latest/base/index.html)
+- [Linux工具速查教程](http://linuxtools-rst.readthedocs.io/zh_CN/latest/base/index.html)
 
 ## 目录(Contents)
 
@@ -100,11 +96,6 @@
 
 ## 联系(Contact)
 
-- Email：judas.n@qq.com（常用） or admin@youmeek.com（备用）
-- Blog：<http://code.YouMeek.com>
-- QQ 群交流，入群请看：<https://github.com/judasn/IntelliJ-IDEA-Java-Conversation>
-- 欢迎捐赠 ^_^：<http://www.youmeek.com/donate>
-
 
 ## Github 协同视频教程(Participate)
 
@@ -123,15 +114,3 @@
 - Watch：关注该项目，作者有更新的时候，会在你的 Github 主页有通知消息。
 - Star：收藏该项目，在你的头像上有一个“Your stars”链接，可以看到你的收藏列表。
 - Fork：复制一份项目到的Github空间上，你可以自己开发自己的这个地址项目，然后 Pull Request 给项目原主人。 
-
-## 参与作者汇总(Author)
-
-|作者(按参与时间排序)|地址|
-|:---------|:---------|
-|Judas.n|<http://code.YouMeek.com>|
-|mrdear|<https://github.com/mrdear>|
-|fooofei|<https://github.com/fooofei>|
-
-## AD
-
-- [推荐：程序员的个性化网址导航：GitNavi.com](http://www.gitnavi.com)
